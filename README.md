@@ -9,3 +9,5 @@ For an understanding of ratings:
 - **Silver**: The game runs well, but may experience some moderate to major issues.
 - **Bronze**: The game runs, but not particularly well. Major issues are present and need to be addressed.
 - **Garbage**: The game either refuses to run or its anti-cheat detects WINE as a false positive.
+
+**This list is constantly growing!** If you use Grapejuice's WINE-TKG and would like to add games and ratings to the database, feel free to open a pull request.
