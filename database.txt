@@ -1,0 +1,48 @@
+The following is a list of Roblox games that have been tested for performance.
+The ratings here are mirrored in relation to ProtonDB.
+
+Tower Defense Simulator: Silver
+
+	- Certain gamemodes cause performance to deteriorate.
+	- The Engineer tower may cause performance to deteriorate.
+	- The lobby will cause performance to deteriorate given enough time;
+	  this is due to a memory leak in the lobby's code.
+
+Welcome to Bloxburg: Platinum
+
+Adopt Me: Platinum
+
+Brookhaven RP: Platinum
+
+Zombie Uprising: Platinum
+
+Football Fusion 2: Platinum
+
+Speed Run 4: Platinum
+
+Sword Fighters Simulator: Platinum
+
+Bedwars: Platinum
+
+Arcane Odyssey: Bronze
+
+	- Generally bad performance. Expect frame drops and stutters.
+
+Work at a Pizza Place: Platinum
+
+Murder Mystery 2: Platinum
+
+Rise of Nations: Silver
+
+	- Performance can deterioriate if there are too many units being
+	  rendered (this also occurs on Windows).
+	- Country hopping enough times will cause performance to deteriorate.
+	- Waiting enough years to massively increase global population can
+	  cause performance to deteriorate.
+
+Dungeon Quest: Platinum
+
+Theme Park Tycoon 2: Gold
+
+	- Increasing the graphics quality using the game's own settings may
+	  negatively impact WINE.
