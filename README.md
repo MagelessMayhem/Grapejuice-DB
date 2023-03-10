@@ -1,5 +1,3 @@
-# Grapejuice-DB
-
 This repository contains a database of Roblox games that have been tested under Grapejuice's modified WINE-TKG 7.20. Any games with a rating below Platinum have their respective issues mentioned, if any.
 
 For an understanding of ratings:
