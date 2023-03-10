@@ -18,7 +18,9 @@ Zombie Uprising: Platinum
 
 Football Fusion 2: Platinum
 
-Speed Run 4: Platinum
+Speed Run 4: Gold
+
+- On X11 only, completing a level with shift lock on may cause the cursor to move out of position. This is most likely a WINE issue and is easily remedied by re-toggling shift lock.
 
 Sword Fighters Simulator: Platinum
 
@@ -45,3 +47,25 @@ Dungeon Quest: Platinum
 Theme Park Tycoon 2: Gold
 
 	- The game's own graphics settings may mess with WINE.
+	
+Barry's Prison Run: Platinum
+
+Grumpy Gran: Gold
+
+	- Occasional frame drops for some time are possible.
+	
+Gacha Online: Platinum
+
+Funky Friday: Platinum
+
+Great School Breakout: Platinum
+
+Restaurant Tycoon 2: Gold
+
+	- FPS may be lower than usual when focusing on a larger number of NPCs.
+	
+Spray Paint: Platinum
+
+Catalog Avatar Creator: Platinum
+
+Maple Hospital: Platinum
