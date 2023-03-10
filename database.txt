@@ -3,10 +3,10 @@ The ratings here are mirrored in relation to ProtonDB.
 
 Tower Defense Simulator: Silver
 
-	- Certain gamemodes cause performance to deteriorate.
+	- Certain gamemodes (namely Badlands and Hardcore) cause performance to deteriorate.
 	- The Engineer tower may cause performance to deteriorate.
-	- The lobby will cause performance to deteriorate given enough time;
-	  this is due to a memory leak in the lobby's code.
+	- The lobby will cause performance to deteriorate given enough time,
+	  due to a memory leak in the lobby's code.
 
 Welcome to Bloxburg: Platinum
 
@@ -35,7 +35,7 @@ Murder Mystery 2: Platinum
 Rise of Nations: Silver
 
 	- Performance can deterioriate if there are too many units being
-	  rendered (this also occurs on Windows).
+	  rendered.
 	- Country hopping enough times will cause performance to deteriorate.
 	- Waiting enough years to massively increase global population can
 	  cause performance to deteriorate.
@@ -44,5 +44,4 @@ Dungeon Quest: Platinum
 
 Theme Park Tycoon 2: Gold
 
-	- Increasing the graphics quality using the game's own settings may
-	  negatively impact WINE.
+	- The game's own graphics settings may mess with WINE.
