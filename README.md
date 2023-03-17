@@ -8,6 +8,6 @@ For an understanding of ratings:
 - **Bronze**: The game runs, but not particularly well. Major issues are present and need to be addressed.
 - **Garbage**: The game either refuses to run or its anti-cheat detects WINE as a false positive.
 
-**This list is constantly growing!** If you use Grapejuice's WINE-TKG and would like to add games and ratings to the database, feel free to open a pull request.
+This list grows whenever I get enough time to test more games. If you use Grapejuice's WINE-TKG and would like to add games and ratings to the database, feel free to open a pull request.
 
 If you feel daunted by the text file, you may instead refer to [this repository's wiki.](https://github.com/MagelessMayhem/Roblox-WINE-DB/wiki/Page-1)
