@@ -1,4 +1,4 @@
-:exclamation: **Roblox does not currently work under WINE! The Byfron client was pushed to the live channel yesterday and purposely blocks WINE right now. This message will be updated if progress is made.** :exclamation:
+:exclamation: **Roblox is currently working again! ** :exclamation:
 
 This repository contains a database of Roblox games that have been tested under Grapejuice's modified WINE-TKG 7.20. Any games with a rating below Platinum have their respective issues mentioned, if any.
 
