@@ -1,4 +1,4 @@
-:exclamation: **Roblox does not currently work under WINE! The Byfron client was pushed to the live channel yesterday and purposely blocks WINE right now. This message will be updated if progress is made.** :exclamation:
+As of 24th August 2023, Roblox works under WINE once again. It is worth nothing howether that it won't work on the modified WINE-TKG 7.20 as Roblox added a check that requires a minimum Wine version of 8.0, but versions 8.15 and above are recommended.
 
 This repository contains a database of Roblox games that have been tested under Grapejuice's modified WINE-TKG 7.20. Any games with a rating below Platinum have their respective issues mentioned, if any.
 
